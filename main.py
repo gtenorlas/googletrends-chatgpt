@@ -1,12 +1,3 @@
-
-
-# go to https://serpapi.com/manage-api-key  to register for an api key
-# go to https://platform.openai.com/account/api-keys to register for an api key
-# go to https://platform.openai.com/docs/api-reference/completions/create for documentations
-# go to https://serpapi.com/google-trends-related-queries for documentations
-# pip install google-search-results
-# pip install pandas
-
 import pandas as pd
 from serpapi import GoogleSearch
 import openai
