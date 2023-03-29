@@ -29,8 +29,8 @@ I'm excited to be part of the Github community and look forward to collaborating
 10. copy .env.example to .env and modify the values of the variables
 11. to run enter "python main.py"
 
-#![Run](./docs/Screenshot_2023-03-29 02.07.37.png)
-#![Output](./docs/Screenshot_2023-03-29 02.07.16.png)
+![Run](/docs/02.png)
+![Output](/docs/01.png)
 
 
 ## 🔗 Links
